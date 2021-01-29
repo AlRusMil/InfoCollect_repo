@@ -1,0 +1,137 @@
+{
+    "response": {
+        "count": 10,
+        "items": [
+            {
+                "id": 190034949,
+                "name": "Повёрнутые на войне. Тайга.",
+                "screen_name": "club190034949",
+                "is_closed": 0,
+                "type": "group",
+                "is_admin": 0,
+                "is_member": 1,
+                "is_advertiser": 0,
+                "photo_50": "https://sun1-95.userapi.com/s/v1/ig2/Yl4MdI5BoZR-7SN3yGDXzUmE9BAYKf93ECw_H7fRDw0AsAvGbWwg-CipMxXas6hCKNlnxjJ1aVOTG5Yx7XBHAa5i.jpg?size=50x0&quality=96&crop=318,0,1276,1276&ava=1",
+                "photo_100": "https://sun1-95.userapi.com/s/v1/ig2/_AV-VeYC_DfhkzIEg4cuTAsoJ38_N5avoWSUeoT3wWhhP10VGrfev7K8ZGtAiBYaHOeGzGQI6mN2zOBlIwXsItDS.jpg?size=100x0&quality=96&crop=318,0,1276,1276&ava=1",
+                "photo_200": "https://sun1-95.userapi.com/s/v1/ig2/tFRk0swtfT39rAbarnAks28YQSjD7U85pLW8oC1t_XAC7LQDXTLZcV9U2s29LhB8mafmUeJ8AejNLFp2NTDlWdq3.jpg?size=200x0&quality=96&crop=318,0,1276,1276&ava=1"
+            },
+            {
+                "id": 151878956,
+                "name": "Повёрнутые на войне",
+                "screen_name": "voenacher",
+                "is_closed": 0,
+                "type": "page",
+                "is_admin": 0,
+                "is_member": 1,
+                "is_advertiser": 0,
+                "photo_50": "https://sun1-94.userapi.com/s/v1/ig2/ckbqWZMHeYqoZbBRsr74py_6pFxgFmJCCAEU9z4fHvlMd16hgoeU3Rrg9chBSY8mfDg_s0u7FiLytAyYRVkJMF0R.jpg?size=50x0&quality=96&crop=0,0,1080,1080&ava=1",
+                "photo_100": "https://sun1-94.userapi.com/s/v1/ig2/WgxHDs-E0lqFePyi_GegJ1-GMxlO0THJyDHn-01DZaQ9yU5jx8niBM5OiEqjEZ6atQhwGv-wdFPs9FDYNgkrPFaZ.jpg?size=100x0&quality=96&crop=0,0,1080,1080&ava=1",
+                "photo_200": "https://sun1-94.userapi.com/s/v1/ig2/t8r7YU7f4RX7jH3Njb8HHeg8eosiyvh-8ztlOzvTS6k8Gd52z7fnxJGCCyYr6TppO5bXynWJ8U6BNdz_KSQBUtsb.jpg?size=200x0&quality=96&crop=0,0,1080,1080&ava=1"
+            },
+            {
+                "id": 132,
+                "name": "НИУ ВШЭ",
+                "screen_name": "hseofficial",
+                "is_closed": 0,
+                "type": "group",
+                "is_admin": 0,
+                "is_member": 1,
+                "is_advertiser": 0,
+                "photo_50": "https://sun1-16.userapi.com/impf/c626828/v626828700/4cc2/AoSobUmyTRU.jpg?size=50x0&quality=96&crop=280,107,466,466&sign=d665269a462a2d66126e42ac8e06ec7d&c_uniq_tag=WlABl41a83cmdKkqHmbNQ1UPV1Memauy4-HW5jd_eRk&ava=1",
+                "photo_100": "https://sun1-16.userapi.com/impf/c626828/v626828700/4cc2/AoSobUmyTRU.jpg?size=100x0&quality=96&crop=280,107,466,466&sign=0ddc1e86f3cfdd58af8bcf0fcad59855&c_uniq_tag=hveMBPJRKMC7AkoWBdV14bhpb4I39Eacp_Je70YN7TM&ava=1",
+                "photo_200": "https://sun1-16.userapi.com/impf/c626828/v626828700/4cc2/AoSobUmyTRU.jpg?size=200x0&quality=96&crop=280,107,466,466&sign=6f2554797545a7ee20891a1ff43e282f&c_uniq_tag=VW--sX7DrZ4JsKHShY81H-QKajWnoSFNS5POjP0e2IU&ava=1"
+            },
+            {
+                "id": 78019879,
+                "name": "МГУ имени М.В.Ломоносова",
+                "screen_name": "msu_official",
+                "is_closed": 0,
+                "type": "page",
+                "is_admin": 0,
+                "is_member": 1,
+                "is_advertiser": 0,
+                "photo_50": "https://sun1-84.userapi.com/s/v1/ig2/7I921ssoVYU9tWGk3C_UYBRsAVpLKsm3MEj1ciJXTN8K5x3lSLP46eWuCIeamFDoSWVwhe0pb0omCQDEF3PcyjaY.jpg?size=50x0&quality=96&crop=162,82,290,290&ava=1",
+                "photo_100": "https://sun1-84.userapi.com/s/v1/ig2/GQZR0WRrZL5sNBa34i5KGt72JC97B4B-f7X3ZXrvYLRJL39l3ItapfXs0NCv1q4y0xURUjHmiR-cCh-HGLGSlrrB.jpg?size=100x0&quality=96&crop=162,82,290,290&ava=1",
+                "photo_200": "https://sun1-84.userapi.com/s/v1/ig2/X_VbiVExwdGXqSb9EQR32-1zTQ6VVe-5pzjN1__RQb8wsIpiUPbKidjT-Ty7qF6OQuGcAny9mk9QhHVdVGhAglz8.jpg?size=200x0&quality=96&crop=162,82,290,290&ava=1"
+            },
+            {
+                "id": 150364082,
+                "name": "Lomonosov School | ЕГЭ и ОГЭ 2021",
+                "screen_name": "dvi_mgu",
+                "is_closed": 0,
+                "type": "page",
+                "is_admin": 0,
+                "is_member": 1,
+                "is_advertiser": 0,
+                "photo_50": "https://sun1-19.userapi.com/impg/cUiwGJxB8KPX88zKf1Yblc-zshdranwpfeFVmg/-jY-CFiwkxI.jpg?size=50x0&quality=96&crop=0,0,1090,1090&sign=c7233a34a81b7c932695fb01cbfa25f4&c_uniq_tag=QvYaw79cjino2XMFQ9yiPSkicHkS6ckRnTFjiLJ99oo&ava=1",
+                "photo_100": "https://sun1-19.userapi.com/impg/cUiwGJxB8KPX88zKf1Yblc-zshdranwpfeFVmg/-jY-CFiwkxI.jpg?size=100x0&quality=96&crop=0,0,1090,1090&sign=439ea8ccf4b4b68110dd1bc835c50b13&c_uniq_tag=CqSd0-zWjBGYv2tOPJuLEPJ8D30q8umVjYvQRQIcao8&ava=1",
+                "photo_200": "https://sun1-19.userapi.com/impg/cUiwGJxB8KPX88zKf1Yblc-zshdranwpfeFVmg/-jY-CFiwkxI.jpg?size=200x0&quality=96&crop=0,0,1090,1090&sign=096490a0e23fe8de1aac5ea53dfe3e1d&c_uniq_tag=0SFzxyo0rWjkUYPAdgbjEpYk5FcAFIicdd5SH9nZUBs&ava=1"
+            },
+            {
+                "id": 161431527,
+                "name": "requiem for dream",
+                "screen_name": "requiemfordream14",
+                "is_closed": 0,
+                "type": "group",
+                "is_admin": 0,
+                "is_member": 1,
+                "is_advertiser": 0,
+                "photo_50": "https://sun1-26.userapi.com/s/v1/if1/nbQeennM0WrF7xQE9UZ17YPkWsaM8bCfVFPdDTUNiwhToVphRqufTGgCmVGYWoc2JCf_zrqJ.jpg?size=50x0&quality=96&crop=93,237,200,200&ava=1",
+                "photo_100": "https://sun1-26.userapi.com/s/v1/if1/D7phYpJM_W1PdJ2PqW47F2j_cKgaLM38UF1le7yzvlM5zs0NPvapJ8d_ttOYRwGXdi-K3wig.jpg?size=100x0&quality=96&crop=93,237,200,200&ava=1",
+                "photo_200": "https://sun1-26.userapi.com/s/v1/if1/ap7l8pf86Ya3qaP1L4Aj5KZZ_cUwm1VZOmZt6QNSC6tyxPamQG7aIX31-a-ALagTYbwqAK-X.jpg?size=200x0&quality=96&crop=93,237,200,200&ava=1"
+            },
+            {
+                "id": 124303372,
+                "name": "Умскул",
+                "screen_name": "umsch",
+                "is_closed": 0,
+                "type": "page",
+                "is_admin": 0,
+                "is_member": 1,
+                "is_advertiser": 0,
+                "photo_50": "https://sun1-97.userapi.com/s/v1/ig2/-2d-9uHpqCbT9ZO49MfebezSnfu90_8mCDW4FjbXr6iB6M6VafHK5AxL2UE2NURwfT1EqgBdFmr8TpZTNJ6_WiL0.jpg?size=50x0&quality=96&crop=0,0,839,839&ava=1",
+                "photo_100": "https://sun1-97.userapi.com/s/v1/ig2/wvJuO4mIyc9xjL9EVC8-vWJMYuo2FJlY09H4L6Jg3aVZP7aDwDGJbClie-1937_qH9ww6_IAAV27OYN63rQsoqfj.jpg?size=100x0&quality=96&crop=0,0,839,839&ava=1",
+                "photo_200": "https://sun1-97.userapi.com/s/v1/ig2/_zPMboUGUG5-e4C0wPiHswK8p434prHYh6qdxUpmBMpBfUNB3CHiyEp4FPWWFSONriiJ33er2Ui_puddXq8_-NDO.jpg?size=200x0&quality=96&crop=0,0,839,839&ava=1"
+            },
+            {
+                "id": 154213818,
+                "name": "Феминизм: наглядно",
+                "screen_name": "feminism_visually",
+                "is_closed": 0,
+                "type": "page",
+                "is_admin": 0,
+                "is_member": 1,
+                "is_advertiser": 0,
+                "photo_50": "https://sun1-95.userapi.com/s/v1/ig2/Sol-h9pnAFnZ34Eu0PHcsVYEa3OZuzdxS-7fnPt10FXN179EEUvtMT2tTztvuEf4tjsG_FGYy19THvBYiquHDPS5.jpg?size=50x0&quality=96&crop=19,27,438,438&ava=1",
+                "photo_100": "https://sun1-95.userapi.com/s/v1/ig2/TIdORTKZ-WQfQJKTRXBsuuhknrKfzlUj7UEHRPEh3jtKMT-X0TCHJyn3qHlv-O381rcCmMjr7C_ISubQFf7Hm5Dp.jpg?size=100x0&quality=96&crop=19,27,438,438&ava=1",
+                "photo_200": "https://sun1-95.userapi.com/s/v1/ig2/fxyL5cMuWXur0vMz-xXVpw-lA5nRe3rNmmXuRpbk7f83ehVUrdqVeOAE807Zs5xwlXCCKMWgzmaC_zmo7TQF-H2N.jpg?size=200x0&quality=96&crop=19,27,438,438&ava=1"
+            },
+            {
+                "id": 198868723,
+                "name": "Онлайн-менеджер | УМСКУЛ",
+                "screen_name": "ompmumsch",
+                "is_closed": 2,
+                "type": "group",
+                "is_admin": 0,
+                "is_member": 1,
+                "is_advertiser": 0,
+                "photo_50": "https://sun1-26.userapi.com/s/v1/ig2/HHHEVSvlNfSjp3ox2gCx7Kmh1TUKk7Hfip38lucOgUzanaYTp2RxEGX3Fy1rBozhWWg9DJr69D8-LXrgewuCSZJZ.jpg?size=50x0&quality=96&crop=55,50,900,900&ava=1",
+                "photo_100": "https://sun1-26.userapi.com/s/v1/ig2/kJKCE8FS784Jt8txHfiLwVQrVH5CrRu44TGyEHCySTRraWCWXqnmM2gWii-63LsQu5tUJmUytCzEkRZHfDCYL1rO.jpg?size=100x0&quality=96&crop=55,50,900,900&ava=1",
+                "photo_200": "https://sun1-26.userapi.com/s/v1/ig2/nvpMwAr8ZkAb0Ky9R-mKqbUf5qeoiI6EwuCTDAjuPwtcKJEJ4baczA_iTGcvamzORlqMdoqNNT1prBwrzu8tTw_A.jpg?size=200x0&quality=96&crop=55,50,900,900&ava=1"
+            },
+            {
+                "id": 54972595,
+                "name": "РЕШУ ОГЭ",
+                "screen_name": "reshuoge",
+                "is_closed": 0,
+                "type": "group",
+                "is_admin": 0,
+                "is_member": 1,
+                "is_advertiser": 0,
+                "photo_50": "https://sun1-23.userapi.com/impf/c628119/v628119701/3870f/TIweyWcmAso.jpg?size=50x0&quality=96&crop=64,0,600,600&sign=b9d5ded5c3f7da418b15c97a76b8586d&c_uniq_tag=pZQkl9PcOXgZzGOrYmOQqdbmT7AnqAM_1BHclAR0lS8&ava=1",
+                "photo_100": "https://sun1-23.userapi.com/impf/c628119/v628119701/3870f/TIweyWcmAso.jpg?size=100x0&quality=96&crop=64,0,600,600&sign=63def8103dfa95db7726c9266f7b8ab0&c_uniq_tag=FBBwh2FxXeY_K2ovTERCa5HkZc9o-Ttrh7QuvYSHuno&ava=1",
+                "photo_200": "https://sun1-23.userapi.com/impf/c628119/v628119701/3870f/TIweyWcmAso.jpg?size=200x0&quality=96&crop=64,0,600,600&sign=282422d9e94f97f94100328ba8137e93&c_uniq_tag=IiGxdj4MOz_FBxc1yX-MOo8j_M0HZMu9aXOyZ-wD4wI&ava=1"
+            }
+        ]
+    }
+}
