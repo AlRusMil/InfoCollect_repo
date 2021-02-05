@@ -1,0 +1,958 @@
+[
+    {
+        "Name": "Senior Java Developer",
+        "Link": "https://superjob.ru/vakansii/senior-java-developer-35857545.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java Developer",
+        "Link": "https://superjob.ru/vakansii/java-developer-35767124.html",
+        "Salary": "by agreement",
+        "Company": "Piano",
+        "Company Link": "https://superjob.ru/clients/piano-4002442.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Senior Java-разработчик (Spring Boot) удаленная работа",
+        "Link": "https://superjob.ru/vakansii/senior-java-razrabotchik-34684572.html",
+        "Salary": {
+            "Min": "not specified",
+            "Max": "250000",
+            "Valuta": "руб"
+        },
+        "Company": "Global Personal",
+        "Company Link": "https://superjob.ru/clients/global-personal-555457.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Senior Java developer",
+        "Link": "https://superjob.ru/vakansii/senior-java-developer-35661445.html",
+        "Salary": "by agreement",
+        "Company": "Связной",
+        "Company Link": "https://superjob.ru/clients/svyaznoj-12062.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Старший Web-разработчик backend (Java, Spring, hibernate)",
+        "Link": "https://superjob.ru/vakansii/starshij-web-razrabotchik-backend-35924881.html",
+        "Salary": {
+            "Min": "230000",
+            "Max": "260000",
+            "Valuta": "руб"
+        },
+        "Company": "САПР-Альфа",
+        "Company Link": "https://superjob.ru/clients/sapr-alfa-3993374.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java Middle+ разработчик (продукт)",
+        "Link": "https://superjob.ru/vakansii/java-middle-35656263.html",
+        "Salary": "by agreement",
+        "Company": "Coleman Services",
+        "Company Link": "https://superjob.ru/clients/coleman-services-45008.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java Developer (remote / office)",
+        "Link": "https://superjob.ru/vakansii/java-developer-35762330.html",
+        "Salary": "by agreement",
+        "Company": "IT Recruitment Solutions (ITRS.ua) ®",
+        "Company Link": "https://superjob.ru/clients/it-recruitment-solutions-itrs-ua-1551995.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java Android Developer",
+        "Link": "https://superjob.ru/vakansii/java-android-developer-35915640.html",
+        "Salary": "by agreement",
+        "Company": "Кольцова",
+        "Company Link": "https://superjob.ru/clients/kolcova-3860996.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Senior Java Developer",
+        "Link": "https://superjob.ru/vakansii/senior-java-developer-35541772.html",
+        "Salary": "by agreement",
+        "Company": "Exadel",
+        "Company Link": "https://superjob.ru/clients/exadel-3988733.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java developer",
+        "Link": "https://superjob.ru/vakansii/java-developer-35839742.html",
+        "Salary": "by agreement",
+        "Company": "Orion Alliance",
+        "Company Link": "https://superjob.ru/clients/orion-alliance-3572537.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Специалист по автоматизации тестирования ПО на Java",
+        "Link": "https://superjob.ru/vakansii/specialist-po-avtomatizacii-testirovaniya-po-na-java-35905424.html",
+        "Salary": {
+            "Min": "120000",
+            "Max": "140000",
+            "Valuta": "руб"
+        },
+        "Company": "Дабл Ап",
+        "Company Link": "https://superjob.ru/clients/dabl-ap-4004573.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Backend Java developer",
+        "Link": "https://superjob.ru/vakansii/backend-java-developer-35904917.html",
+        "Salary": "by agreement",
+        "Company": "Эквирон",
+        "Company Link": "https://superjob.ru/clients/ekviron-3935449.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java Developer Senior / Team Lead",
+        "Link": "https://superjob.ru/vakansii/java-developer-senior-35901475.html",
+        "Salary": "by agreement",
+        "Company": "Ай-Новус",
+        "Company Link": "https://superjob.ru/clients/aj-novus-4010274.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java разработчик (Junior / Middle)",
+        "Link": "https://superjob.ru/vakansii/java-razrabotchik-35734842.html",
+        "Salary": "by agreement",
+        "Company": "ВИЗАВИ Консалт",
+        "Company Link": "https://superjob.ru/clients/vizavi-konsalt-2827.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист JAVA, тимлид",
+        "Link": "https://superjob.ru/vakansii/programmist-java-35898590.html",
+        "Salary": {
+            "Min": "200000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "ФГУП «Охрана» Росгвардии",
+        "Company Link": "https://superjob.ru/clients/fgup-ohrana-rosgvardii-4009866.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Senior Java Developer",
+        "Link": "https://superjob.ru/vakansii/senior-java-developer-35601368.html",
+        "Salary": "by agreement",
+        "Company": "DataArt",
+        "Company Link": "https://superjob.ru/clients/dataart-163244.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java developer",
+        "Link": "https://superjob.ru/vakansii/java-developer-35895447.html",
+        "Salary": "by agreement",
+        "Company": "Staffmax",
+        "Company Link": "https://superjob.ru/clients/staffmax-67627.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер-программист Java",
+        "Link": "https://superjob.ru/vakansii/inzhener-programmist-java-33366018.html",
+        "Salary": {
+            "Min": "90000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "ИнтраСофт",
+        "Company Link": "https://superjob.ru/clients/intrasoft-3511112.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист Kotlin / Java разработчик, backend (Middle / Senior)",
+        "Link": "https://superjob.ru/vakansii/programmist-kotlin-34352030.html",
+        "Salary": {
+            "Min": "not specified",
+            "Max": "250000",
+            "Valuta": "руб"
+        },
+        "Company": "Алекс Персонал",
+        "Company Link": "https://superjob.ru/clients/aleks-personal-3907968.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "QA Auto Engineer / Автотестировщик (Java)",
+        "Link": "https://superjob.ru/vakansii/qa-auto-engineer-35885549.html",
+        "Salary": {
+            "Min": "not specified",
+            "Max": "260000",
+            "Valuta": "руб"
+        },
+        "Company": "Технопарк «Сколково»",
+        "Company Link": "https://superjob.ru/clients/tehnopark-skolkovo-3749932.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Middle java разработчик",
+        "Link": "https://superjob.ru/vakansii/middle-java-razrabotchik-35881706.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист Java",
+        "Link": "https://superjob.ru/vakansii/programmist-java-35709996.html",
+        "Salary": {
+            "Min": "110000",
+            "Max": "120000",
+            "Valuta": "руб"
+        },
+        "Company": "Инас+",
+        "Company Link": "https://superjob.ru/clients/inas-3632994.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java full stack разработчик (Spring, Angular)",
+        "Link": "https://superjob.ru/vakansii/java-full-stack-razrabotchik-35571496.html",
+        "Salary": {
+            "Min": "133333",
+            "Max": "165000",
+            "Valuta": "руб"
+        },
+        "Company": "Intis Telecom",
+        "Company Link": "https://superjob.ru/clients/intis-telecom-3881689.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Разработчик Java",
+        "Link": "https://superjob.ru/vakansii/razrabotchik-java-35284799.html",
+        "Salary": "by agreement",
+        "Company": "АВ Софт",
+        "Company Link": "https://superjob.ru/clients/av-soft-3883806.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java-разработчик",
+        "Link": "https://superjob.ru/vakansii/java-razrabotchik-35555890.html",
+        "Salary": "by agreement",
+        "Company": "МАСК-РУС",
+        "Company Link": "https://superjob.ru/clients/mask-rus-3978660.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java-разработчик Back-end / Full stack",
+        "Link": "https://superjob.ru/vakansii/java-razrabotchik-back-end-35550979.html",
+        "Salary": "by agreement",
+        "Company": "СтандартПроект",
+        "Company Link": "https://superjob.ru/clients/standartproekt-3894654.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Разработчик Java (Middle / Senior)",
+        "Link": "https://superjob.ru/vakansii/razrabotchik-java-35785056.html",
+        "Salary": {
+            "Min": "150000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Частный рекрутер Бельтюкова Мария Александровна",
+        "Company Link": "https://superjob.ru/clients/chastnyj-rekruter-beltyukova-mariya-aleksandrovna-3897469.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Разработчик (Java, React.js, Vue)",
+        "Link": "https://superjob.ru/vakansii/razrabotchik-35676224.html",
+        "Salary": "by agreement",
+        "Company": "АО\"НПО РусБИТех\" (г. Тверь)",
+        "Company Link": "https://superjob.ru/clients/op-npo-rusbiteh-g-tver-3972820.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Java Technical Lead (remote / office)",
+        "Link": "https://superjob.ru/vakansii/java-technical-lead-35675107.html",
+        "Salary": "by agreement",
+        "Company": "IT Recruitment Solutions (ITRS.ua) ®",
+        "Company Link": "https://superjob.ru/clients/it-recruitment-solutions-itrs-ua-1551995.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Middle JAVA Developer",
+        "Link": "https://superjob.ru/vakansii/middle-java-developer-35544449.html",
+        "Salary": {
+            "Min": "200000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Частный рекрутер Воробьева Мария",
+        "Company Link": "https://superjob.ru/clients/chastnyj-rekruter-vorobeva-mariya-3726401.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Старший Java разработчик",
+        "Link": "https://superjob.ru/vakansii/starshij-java-razrabotchik-35839733.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Ведущий разработчик-автоматизатор на Java",
+        "Link": "https://superjob.ru/vakansii/veduschij-razrabotchik-avtomatizator-na-java-35579515.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Руководитель команды Java разработки (Team lead)",
+        "Link": "https://superjob.ru/vakansii/rukovoditel-komandy-java-razrabotki-35578815.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Контент-менеджер",
+        "Link": "https://superjob.ru/vakansii/kontent-menedzher-35925866.html",
+        "Salary": {
+            "Min": "35000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "",
+        "Company Link": "",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер по нагрузочному тестированию",
+        "Link": "https://superjob.ru/vakansii/inzhener-po-nagruzochnomu-testirovaniyu-35658251.html",
+        "Salary": "by agreement",
+        "Company": "Эквирон",
+        "Company Link": "https://superjob.ru/clients/ekviron-3935449.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Ведущий специалист на проект по конверсии",
+        "Link": "https://superjob.ru/vakansii/veduschij-specialist-na-proekt-po-konversii-35764979.html",
+        "Salary": "by agreement",
+        "Company": "Промсвязьбанк",
+        "Company Link": "https://superjob.ru/clients/promsvyazbank-17172.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Frontend разработчик / Веб-программист (Junior / Middle)",
+        "Link": "https://superjob.ru/vakansii/frontend-razrabotchik-35763068.html",
+        "Salary": "by agreement",
+        "Company": "Прорыв",
+        "Company Link": "https://superjob.ru/clients/proryv-3977815.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист Delphi",
+        "Link": "https://superjob.ru/vakansii/programmist-delphi-35892116.html",
+        "Salary": "by agreement",
+        "Company": "МГТС",
+        "Company Link": "https://superjob.ru/clients/mgts-34780.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист C#",
+        "Link": "https://superjob.ru/vakansii/programmist-c-30300627.html",
+        "Salary": "by agreement",
+        "Company": "НКО Инкахран",
+        "Company Link": "https://superjob.ru/clients/nko-inkahran-211533.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Android разработчик",
+        "Link": "https://superjob.ru/vakansii/android-razrabotchik-35920495.html",
+        "Salary": "by agreement",
+        "Company": "Обувь России",
+        "Company Link": "https://superjob.ru/clients/obuv-rossii-764640.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Главный системный аналитик (проект Электронный документооборот с Госорганами)",
+        "Link": "https://superjob.ru/vakansii/glavnyj-sistemnyj-analitik-35578559.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Специалист службы технической поддержки",
+        "Link": "https://superjob.ru/vakansii/specialist-sluzhby-tehnicheskoj-podderzhki-35658303.html",
+        "Salary": "by agreement",
+        "Company": "Эквирон",
+        "Company Link": "https://superjob.ru/clients/ekviron-3935449.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер внедрения IDM",
+        "Link": "https://superjob.ru/vakansii/inzhener-vnedreniya-idm-35850631.html",
+        "Salary": {
+            "Min": "90000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Гет ИТ",
+        "Company Link": "https://superjob.ru/clients/get-it-3902981.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Senior Data Scientist / Lead Data Scientist",
+        "Link": "https://superjob.ru/vakansii/senior-data-scientist-35542173.html",
+        "Salary": {
+            "Salary": "250000",
+            "Valuta": "руб"
+        },
+        "Company": "Грандстафф",
+        "Company Link": "https://superjob.ru/clients/grandstaff-2765830.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "QA-специалист, QA-тестировщик (удаленно)",
+        "Link": "https://superjob.ru/vakansii/qa-specialist-35756516.html",
+        "Salary": {
+            "Min": "not specified",
+            "Max": "140000",
+            "Valuta": "руб"
+        },
+        "Company": "Консалтинговая компания",
+        "Company Link": "https://superjob.ru/clients/konsaltingovaya-kompaniya-3826903.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер-программист",
+        "Link": "https://superjob.ru/vakansii/inzhener-programmist-35849486.html",
+        "Salary": "by agreement",
+        "Company": "ИК СИБИНТЕК",
+        "Company Link": "https://superjob.ru/clients/ik-sibintek-2918088.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Ведущий разработчик Android",
+        "Link": "https://superjob.ru/vakansii/veduschij-razrabotchik-android-34663605.html",
+        "Salary": "by agreement",
+        "Company": "SuperJob",
+        "Company Link": "https://superjob.ru/clients/superjob-14449.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Media Streaming Developer",
+        "Link": "https://superjob.ru/vakansii/media-streaming-developer-35640231.html",
+        "Salary": {
+            "Min": "130000",
+            "Max": "133000",
+            "Valuta": "руб"
+        },
+        "Company": "TR Logic LLC",
+        "Company Link": "https://superjob.ru/clients/tr-logic-llc-3138166.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Разработчик мобильных приложений IOS / Android",
+        "Link": "https://superjob.ru/vakansii/razrabotchik-mobilnyh-prilozhenij-ios-35914050.html",
+        "Salary": {
+            "Min": "not specified",
+            "Max": "170000",
+            "Valuta": "руб"
+        },
+        "Company": "",
+        "Company Link": "",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Junior developer (PL/SQL)",
+        "Link": "https://superjob.ru/vakansii/junior-developer-35810889.html",
+        "Salary": {
+            "Min": "60000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Стаффмикс",
+        "Company Link": "https://superjob.ru/clients/staffmiks-3273710.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Ведущий Front-end разработчик",
+        "Link": "https://superjob.ru/vakansii/veduschij-front-end-razrabotchik-35839719.html",
+        "Salary": {
+            "Min": "180000",
+            "Max": "220000",
+            "Valuta": "руб"
+        },
+        "Company": "Никифорова Ольга",
+        "Company Link": "https://superjob.ru/clients/nikiforova-olga-3791916.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер технической поддержки",
+        "Link": "https://superjob.ru/vakansii/inzhener-tehnicheskoj-podderzhki-35908230.html",
+        "Salary": {
+            "Min": "60000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "ВИЗАВИ Консалт",
+        "Company Link": "https://superjob.ru/clients/vizavi-konsalt-2827.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист",
+        "Link": "https://superjob.ru/vakansii/programmist-35905247.html",
+        "Salary": {
+            "Salary": "100000",
+            "Valuta": "руб"
+        },
+        "Company": "Менфин",
+        "Company Link": "https://superjob.ru/clients/menfin-4001656.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист 1C",
+        "Link": "https://superjob.ru/vakansii/programmist-1c-35838516.html",
+        "Salary": {
+            "Salary": "150000",
+            "Valuta": "руб"
+        },
+        "Company": "УК Грандо",
+        "Company Link": "https://superjob.ru/clients/uk-grando-3438735.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист 1С",
+        "Link": "https://superjob.ru/vakansii/programmist-1s-35109426.html",
+        "Salary": "by agreement",
+        "Company": "Кронштадтский морской завод",
+        "Company Link": "https://superjob.ru/clients/kronshtadtskij-morskoj-zavod-432685.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "C#, .NET developer",
+        "Link": "https://superjob.ru/vakansii/c-35900212.html",
+        "Salary": "by agreement",
+        "Company": "SoftData",
+        "Company Link": "https://superjob.ru/clients/softdata-4010181.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер-программист",
+        "Link": "https://superjob.ru/vakansii/inzhener-programmist-35898713.html",
+        "Salary": {
+            "Min": "70000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Энергозапас",
+        "Company Link": "https://superjob.ru/clients/energozapas-4009893.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Developer / Программист",
+        "Link": "https://superjob.ru/vakansii/developer-35601260.html",
+        "Salary": "by agreement",
+        "Company": "DataArt",
+        "Company Link": "https://superjob.ru/clients/dataart-163244.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер-программист",
+        "Link": "https://superjob.ru/vakansii/inzhener-programmist-35600076.html",
+        "Salary": {
+            "Min": "32000",
+            "Max": "38000",
+            "Valuta": "руб"
+        },
+        "Company": "Интер РАО Управление сервисами",
+        "Company Link": "https://superjob.ru/clients/inter-rao-upravlenie-servisami-3632164.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Пентестер",
+        "Link": "https://superjob.ru/vakansii/pentester-35895895.html",
+        "Salary": "by agreement",
+        "Company": "RedX Solutions Ltd.",
+        "Company Link": "https://superjob.ru/clients/redx-solutions-ltd-4009707.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Тестировщик",
+        "Link": "https://superjob.ru/vakansii/testirovschik-35800733.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Специалист по базам данных",
+        "Link": "https://superjob.ru/vakansii/specialist-po-bazam-dannyh-35847338.html",
+        "Salary": "by agreement",
+        "Company": "ИК СИБИНТЕК",
+        "Company Link": "https://superjob.ru/clients/ik-sibintek-2918088.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "QA-engineer, Автоматизатор / Специалист (QA-auto) удаленно",
+        "Link": "https://superjob.ru/vakansii/qa-engineer-35846358.html",
+        "Salary": {
+            "Min": "not specified",
+            "Max": "160000",
+            "Valuta": "руб"
+        },
+        "Company": "Консалтинговая компания",
+        "Company Link": "https://superjob.ru/clients/konsaltingovaya-kompaniya-3826903.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер-программист",
+        "Link": "https://superjob.ru/vakansii/inzhener-programmist-35817834.html",
+        "Salary": "by agreement",
+        "Company": "Профессионал",
+        "Company Link": "https://superjob.ru/clients/professional-2918318.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Backend-разработчик Python",
+        "Link": "https://superjob.ru/vakansii/backend-razrabotchik-python-35151272.html",
+        "Salary": "by agreement",
+        "Company": "КОМПЛИТ",
+        "Company Link": "https://superjob.ru/clients/kompaniya-komplit-18639.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Руководитель разработки / Team Lead",
+        "Link": "https://superjob.ru/vakansii/rukovoditel-razrabotki-35042541.html",
+        "Salary": {
+            "Min": "180000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "МФТИ",
+        "Company Link": "https://superjob.ru/clients/mfti-2185844.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Андроид-разработчик",
+        "Link": "https://superjob.ru/vakansii/android-razrabotchik-34707603.html",
+        "Salary": {
+            "Min": "100000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Интеркросс",
+        "Company Link": "https://superjob.ru/clients/interkross-780812.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист",
+        "Link": "https://superjob.ru/vakansii/programmist-32174378.html",
+        "Salary": {
+            "Min": "40000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Иркутский диагностический центр",
+        "Company Link": "https://superjob.ru/clients/guz-irkutskij-diagnosticheskij-centr-610821.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Fullstack-разработчик",
+        "Link": "https://superjob.ru/vakansii/fullstack-razrabotchik-35711512.html",
+        "Salary": "by agreement",
+        "Company": "Вайнтриб",
+        "Company Link": "https://superjob.ru/clients/vajntrib-3665331.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Системный администратор (devops)",
+        "Link": "https://superjob.ru/vakansii/sistemnyj-administrator-35806279.html",
+        "Salary": {
+            "Min": "30000",
+            "Max": "37500",
+            "Valuta": "руб"
+        },
+        "Company": "Центр информационных технологий",
+        "Company Link": "https://superjob.ru/clients/centr-informacionnyh-tehnologij-3952186.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Ведущий программист 1C",
+        "Link": "https://superjob.ru/vakansii/veduschij-programmist-1c-35867099.html",
+        "Salary": {
+            "Min": "125000",
+            "Max": "150000",
+            "Valuta": "руб"
+        },
+        "Company": "ЗИТРЕК РУС",
+        "Company Link": "https://superjob.ru/clients/zitrek-rus-2022786.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Руководитель отдела Web-разработки",
+        "Link": "https://superjob.ru/vakansii/rukovoditel-otdela-web-razrabotki-35802988.html",
+        "Salary": {
+            "Min": "130000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Фармаимпекс",
+        "Company Link": "https://superjob.ru/clients/farmaimpeks-346911.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Mobile Team Lead",
+        "Link": "https://superjob.ru/vakansii/mobile-team-lead-35697343.html",
+        "Salary": {
+            "Min": "150000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "БИТ \"Мастер\"",
+        "Company Link": "https://superjob.ru/clients/bit-master-604818.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Frontend разработчик React",
+        "Link": "https://superjob.ru/vakansii/frontend-razrabotchik-react-35555605.html",
+        "Salary": "by agreement",
+        "Company": "Маск-Рус",
+        "Company Link": "https://superjob.ru/clients/mask-rus-3978660.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Системный администратор",
+        "Link": "https://superjob.ru/vakansii/sistemnyj-administrator-35554903.html",
+        "Salary": {
+            "Min": "30000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Частный рекрутер Воробьев Денис Анатольевич",
+        "Company Link": "https://superjob.ru/clients/chastnyj-rekruter-vorobev-denis-anatolevich-3975952.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер по автоматизации тестирования / Test Automation Engineer",
+        "Link": "https://superjob.ru/vakansii/inzhener-po-avtomatizacii-testirovaniya-31173321.html",
+        "Salary": {
+            "Salary": "132000",
+            "Valuta": "руб"
+        },
+        "Company": "НПП Гарант Сервис",
+        "Company Link": "https://superjob.ru/clients/npp-garant-servis-universitet-191837.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист 1С",
+        "Link": "https://superjob.ru/vakansii/programmist-1s-25008617.html",
+        "Salary": "by agreement",
+        "Company": "ФАРМ-ПРОЕКТ",
+        "Company Link": "https://superjob.ru/clients/farm-proekt-908603.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист PHP",
+        "Link": "https://superjob.ru/vakansii/programmist-php-35781645.html",
+        "Salary": {
+            "Min": "80000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Медицинская компания «Приоритет»",
+        "Company Link": "https://superjob.ru/clients/medicinskaya-kompaniya-prioritet-2658153.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Тестировщик программного обеспечения",
+        "Link": "https://superjob.ru/vakansii/testirovschik-programmnogo-obespecheniya-35866676.html",
+        "Salary": "by agreement",
+        "Company": "НПО АНГСТРЕМ",
+        "Company Link": "https://superjob.ru/clients/npo-angstrem-2897792.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер технической поддержки (PL/SQL)",
+        "Link": "https://superjob.ru/vakansii/inzhener-tehnicheskoj-podderzhki-35666479.html",
+        "Salary": {
+            "Min": "50000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Вайгандт Консалтинг",
+        "Company Link": "https://superjob.ru/clients/vajgandt-konsalting-3998275.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "QA Perfomance Engineer",
+        "Link": "https://superjob.ru/vakansii/qa-perfomance-engineer-35847910.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист-разработчик Lotus Domino Designer",
+        "Link": "https://superjob.ru/vakansii/programmist-razrabotchik-lotus-domino-designer-35298140.html",
+        "Salary": "by agreement",
+        "Company": "ИК СИБИНТЕК",
+        "Company Link": "https://superjob.ru/clients/ik-sibintek-2918088.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "QA Engineer",
+        "Link": "https://superjob.ru/vakansii/qa-engineer-35234900.html",
+        "Salary": "by agreement",
+        "Company": "МФТИ",
+        "Company Link": "https://superjob.ru/clients/mfti-2185844.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Администратор сайтов",
+        "Link": "https://superjob.ru/vakansii/administrator-sajtov-35684288.html",
+        "Salary": {
+            "Min": "70000",
+            "Max": "75000",
+            "Valuta": "руб"
+        },
+        "Company": "Консалтинговая группа ЕРМАК",
+        "Company Link": "https://superjob.ru/clients/konsaltingovaya-gruppa-ermak-343912.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер по нагрузочному тестированию",
+        "Link": "https://superjob.ru/vakansii/inzhener-po-nagruzochnomu-testirovaniyu-35550292.html",
+        "Salary": "by agreement",
+        "Company": "Bell Integrator",
+        "Company Link": "https://superjob.ru/clients/bell-integrator-200833.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Программист микроконтроллеров / Инженер-схемотехник / Инженер-программист С/С++",
+        "Link": "https://superjob.ru/vakansii/programmist-mikrokontrollerov-35549960.html",
+        "Salary": {
+            "Min": "not specified",
+            "Max": "150000",
+            "Valuta": "руб"
+        },
+        "Company": "Петербургский завод измерительных приборов",
+        "Company Link": "https://superjob.ru/clients/peterburgskij-zavod-izmeritelnyh-priborov-370303.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер-программист САПР",
+        "Link": "https://superjob.ru/vakansii/inzhener-programmist-sapr-35862745.html",
+        "Salary": "by agreement",
+        "Company": "НИК",
+        "Company Link": "https://superjob.ru/clients/nik-4539.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Бизнес-аналитик",
+        "Link": "https://superjob.ru/vakansii/biznes-analitik-34232909.html",
+        "Salary": "by agreement",
+        "Company": "РЕСО-Гарантия",
+        "Company Link": "https://superjob.ru/clients/reso-garantiya-242771.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Web-программист, Web-разработчик (удалённо)",
+        "Link": "https://superjob.ru/vakansii/web-programmist-33921626.html",
+        "Salary": {
+            "Min": "30000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "Welbex",
+        "Company Link": "https://superjob.ru/clients/welbex-3728563.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Ведущий программист",
+        "Link": "https://superjob.ru/vakansii/veduschij-programmist-33869843.html",
+        "Salary": {
+            "Min": "100000",
+            "Max": "not specified",
+            "Valuta": "руб"
+        },
+        "Company": "ОЗОН, фармацевтическая компания",
+        "Company Link": "https://superjob.ru/clients/ozon-2193754.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Ведущий специалист (Разработчик интеграционного ПО (middleware)",
+        "Link": "https://superjob.ru/vakansii/veduschij-specialist-35206749.html",
+        "Salary": "by agreement",
+        "Company": "Банк Восточный",
+        "Company Link": "https://superjob.ru/clients/bank-vostochnyj-268943.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер отдела разработки и тестирования",
+        "Link": "https://superjob.ru/vakansii/inzhener-otdela-razrabotki-i-testirovaniya-35676215.html",
+        "Salary": "by agreement",
+        "Company": "АО\"НПО РусБИТех\" (г. Тверь)",
+        "Company Link": "https://superjob.ru/clients/op-npo-rusbiteh-g-tver-3972820.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Руководитель направления Backend-разработки",
+        "Link": "https://superjob.ru/vakansii/rukovoditel-napravleniya-backend-razrabotki-35914769.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Системный аналитик (Единый сервис аутентификации)",
+        "Link": "https://superjob.ru/vakansii/sistemnyj-analitik-35742440.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Главный инженер по разработке",
+        "Link": "https://superjob.ru/vakansii/glavnyj-inzhener-po-razrabotke-35672384.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Бизнес-аналитик (проект Государственные продукты и сервисы)",
+        "Link": "https://superjob.ru/vakansii/biznes-analitik-35854957.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Ведущий инженер в департамент общих прикладных сервисов Банка",
+        "Link": "https://superjob.ru/vakansii/veduschij-inzhener-v-departament-obschih-prikladnyh-servisov-banka-35777295.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Главный инженер по сопровождению",
+        "Link": "https://superjob.ru/vakansii/glavnyj-inzhener-po-soprovozhdeniyu-33148807.html",
+        "Salary": "by agreement",
+        "Company": "Сбербанк России",
+        "Company Link": "https://superjob.ru/clients/sberbank-rossii-297921.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Специалист SAP (RCM)",
+        "Link": "https://superjob.ru/vakansii/specialist-sap-35297561.html",
+        "Salary": "by agreement",
+        "Company": "ИК СИБИНТЕК",
+        "Company Link": "https://superjob.ru/clients/ik-sibintek-2918088.html",
+        "Site": "Superjob"
+    },
+    {
+        "Name": "Инженер по автоматизированному тестированию",
+        "Link": "https://superjob.ru/vakansii/inzhener-po-avtomatizirovannomu-testirovaniyu-35550301.html",
+        "Salary": "by agreement",
+        "Company": "Bell Integrator",
+        "Company Link": "https://superjob.ru/clients/bell-integrator-200833.html",
+        "Site": "Superjob"
+    }
+]
