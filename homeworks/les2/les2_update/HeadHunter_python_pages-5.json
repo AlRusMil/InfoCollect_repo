@@ -1,0 +1,3002 @@
+[
+    {
+        "Name": "Junior Data Developer (Python)",
+        "Link": "https://hh.ru/vacancy/42204535?query=python",
+        "Salary": {
+            "Min": 100000.0,
+            "Max": 140000.0,
+            "Valuta": "руб"
+        },
+        "Company": " DataFork",
+        "Company Link": "https://hh.ru/employer/3319598",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/40471386?query=python",
+        "Salary": {
+            "Min": 60000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Артистраж",
+        "Company Link": "https://hh.ru/employer/4948337",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data Scientist",
+        "Link": "https://hh.ru/vacancy/40471367?query=python",
+        "Salary": {
+            "Min": 60000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Артистраж",
+        "Company Link": "https://hh.ru/employer/4948337",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Специалист по машинному зрению TenserFlow",
+        "Link": "https://hh.ru/vacancy/42137736?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ТОО OES",
+        "Company Link": "https://hh.ru/employer/5183594",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Web-разработчик/Full Stack Developer (Python/Django/React)",
+        "Link": "https://hh.ru/vacancy/42029549?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ФОЛИЕН",
+        "Company Link": "https://hh.ru/employer/1024691",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer",
+        "Link": "https://hh.ru/vacancy/42062886?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ЗАО Сервис Деск",
+        "Company Link": "https://hh.ru/employer/1156409",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data Scientist",
+        "Link": "https://hh.ru/vacancy/42060800?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ОАО БПС-Сбербанк",
+        "Company Link": "https://hh.ru/employer/829010",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior разработчик Python Django",
+        "Link": "https://hh.ru/vacancy/42203832?query=python",
+        "Salary": {
+            "Min": 40000.0,
+            "Max": 80000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Инсейлс Рус",
+        "Company Link": "https://hh.ru/employer/1805574",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Python developer",
+        "Link": "https://hh.ru/vacancy/42174317?query=python",
+        "Salary": {
+            "Min": 40000.0,
+            "Max": 80000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Shelfmatch Robotics",
+        "Company Link": "https://hh.ru/employer/3478080",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Backend-разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/41649102?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": 320000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Hoodies",
+        "Company Link": "https://hh.ru/employer/2824279",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python backend разработчик",
+        "Link": "https://hh.ru/vacancy/41946668?query=python",
+        "Salary": {
+            "Min": 140000.0,
+            "Max": 160000.0,
+            "Valuta": "руб"
+        },
+        "Company": " UAB Softeka",
+        "Company Link": "https://hh.ru/employer/4116383",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle/Senior Backend Developer (Python)",
+        "Link": "https://hh.ru/vacancy/40918573?query=python",
+        "Salary": {
+            "Min": 300000.0,
+            "Max": 400000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Postuf",
+        "Company Link": "https://hh.ru/employer/3013521",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python/Django (Lead/Architect)",
+        "Link": "https://hh.ru/vacancy/41394414?query=python",
+        "Salary": {
+            "Min": 300000.0,
+            "Max": 300000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ИП Калистратов Олег Геннадьевич",
+        "Company Link": "https://hh.ru/employer/3673865",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/41784502?query=python",
+        "Salary": {
+            "Min": 180000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Доверенная среда",
+        "Company Link": "https://hh.ru/employer/4514966",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Python Developer",
+        "Link": "https://hh.ru/vacancy/42191267?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Big Data Solutions",
+        "Company Link": "https://hh.ru/employer/2487773",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend python/Django разработчик",
+        "Link": "https://hh.ru/vacancy/41903199?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО БОЛЬШАЯ ТРОЙКА",
+        "Company Link": "https://hh.ru/employer/2464195",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior python developer (support)",
+        "Link": "https://hh.ru/vacancy/42187491?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "АО Народный банк Казахстана",
+        "Company Link": "https://hh.ru/employer/23817",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Backend Developer (Python)",
+        "Link": "https://hh.ru/vacancy/40018645?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Postuf",
+        "Company Link": "https://hh.ru/employer/3013521",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Ведущий разработчик Python (Team Lead)",
+        "Link": "https://hh.ru/vacancy/42031519?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": 250000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Телепорт",
+        "Company Link": "https://hh.ru/employer/2712343",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Стажер - Python-разработчик (Django, DRF)",
+        "Link": "https://hh.ru/vacancy/40847256?query=python",
+        "Salary": {
+            "Min": 50000.0,
+            "Max": 90000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Фабрика Решений",
+        "Company Link": "https://hh.ru/employer/4596113",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer",
+        "Link": "https://hh.ru/vacancy/42154105?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО Розум Роботикс",
+        "Company Link": "https://hh.ru/employer/3062716",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/41549707?query=python",
+        "Salary": {
+            "Min": 130000.0,
+            "Max": 180000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Insilico Medicine",
+        "Company Link": "https://hh.ru/employer/2009224",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик (Middle/Senior)",
+        "Link": "https://hh.ru/vacancy/41761947?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": 400000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Вайт Код",
+        "Company Link": "https://hh.ru/employer/1519234",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python/Scrapy разработчик",
+        "Link": "https://hh.ru/vacancy/41720668?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Datacrafts",
+        "Company Link": "https://hh.ru/employer/4773904",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend - разработчик (Python / Django)",
+        "Link": "https://hh.ru/vacancy/42080377?query=python",
+        "Salary": {
+            "Min": 90000.0,
+            "Max": 120000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Алеф Диджитал",
+        "Company Link": "https://hh.ru/employer/4434167",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer (Middle)",
+        "Link": "https://hh.ru/vacancy/42120602?query=python",
+        "Salary": {
+            "Min": 28000.0,
+            "Max": 112000.0,
+            "Valuta": "грн"
+        },
+        "Company": " IT-компания WEZOM",
+        "Company Link": "https://hh.ru/employer/1457828",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик на Python/Python developer (Django)",
+        "Link": "https://hh.ru/vacancy/39233002?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Доктор Веб",
+        "Company Link": "https://hh.ru/employer/8884",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python и SQL",
+        "Link": "https://hh.ru/vacancy/41897870?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО ИнфоНет Мобил",
+        "Company Link": "https://hh.ru/employer/2000353",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Web Developer",
+        "Link": "https://hh.ru/vacancy/41851796?query=python",
+        "Salary": {
+            "Min": 3500.0,
+            "Max": 6500.0,
+            "Valuta": "USD"
+        },
+        "Company": " Soshace",
+        "Company Link": "https://hh.ru/employer/1738507",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer (backend для мобильного приложения)",
+        "Link": "https://hh.ru/vacancy/42023543?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ИП Храмцова Полина Владимировна",
+        "Company Link": "https://hh.ru/employer/3685637",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Strong junior / Middle Python Developer",
+        "Link": "https://hh.ru/vacancy/42134948?query=python",
+        "Salary": {
+            "Min": 1000.0,
+            "Max": 4000.0,
+            "Valuta": "USD"
+        },
+        "Company": " Starnavi",
+        "Company Link": "https://hh.ru/employer/3269629",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle QA Automation Engineer (Python)",
+        "Link": "https://hh.ru/vacancy/41467211?query=python",
+        "Salary": {
+            "Min": 180000.0,
+            "Max": 250000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Scalable Solutions",
+        "Company Link": "https://hh.ru/employer/5078562",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle/Senior Back-end developer (Python/Django)",
+        "Link": "https://hh.ru/vacancy/41772416?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 180000.0,
+            "Valuta": "руб"
+        },
+        "Company": " KRK Group",
+        "Company Link": "https://hh.ru/employer/3950758",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python (Django\\middle)",
+        "Link": "https://hh.ru/vacancy/41777648?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 150000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО СофтМедиаЛаб",
+        "Company Link": "https://hh.ru/employer/2786115",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/42154164?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 120000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Zebrains",
+        "Company Link": "https://hh.ru/employer/3267659",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python developer",
+        "Link": "https://hh.ru/vacancy/30005963?query=python",
+        "Salary": {
+            "Min": 4000.0,
+            "Max": null,
+            "Valuta": "USD"
+        },
+        "Company": " NetworkOptix",
+        "Company Link": "https://hh.ru/employer/899854",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend Python Developer",
+        "Link": "https://hh.ru/vacancy/42149618?query=python",
+        "Salary": {
+            "Min": 80000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Клевер Солюшнс",
+        "Company Link": "https://hh.ru/employer/2160858",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Python разработчик",
+        "Link": "https://hh.ru/vacancy/41713868?query=python",
+        "Salary": {
+            "Min": 30000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Request Design",
+        "Company Link": "https://hh.ru/employer/2288307",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Python Developer",
+        "Link": "https://hh.ru/vacancy/42191491?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО Моушен Лоджик",
+        "Company Link": "https://hh.ru/employer/4008355",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer",
+        "Link": "https://hh.ru/vacancy/42208672?query=python",
+        "Salary": {
+            "Min": 2500.0,
+            "Max": null,
+            "Valuta": "USD"
+        },
+        "Company": "ООО Кернеликс / Kernelics",
+        "Company Link": "https://hh.ru/employer/4877795",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle разработчик Python / Django (удалённо)",
+        "Link": "https://hh.ru/vacancy/42123396?query=python",
+        "Salary": {
+            "Min": 60000.0,
+            "Max": 120000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Диджитал Пайн",
+        "Company Link": "https://hh.ru/employer/1514066",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/41991858?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Прикладные технологии",
+        "Company Link": "https://hh.ru/employer/653937",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Software Engineer (Senior Developer)",
+        "Link": "https://hh.ru/vacancy/42147914?query=python",
+        "Salary": {
+            "Min": 5000.0,
+            "Max": 7000.0,
+            "Valuta": "USD"
+        },
+        "Company": " 21 Creative Agency",
+        "Company Link": "https://hh.ru/employer/5161401",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer (Computer Vision)",
+        "Link": "https://hh.ru/vacancy/41483501?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": 350000.0,
+            "Valuta": "руб"
+        },
+        "Company": " NZT Group",
+        "Company Link": "https://hh.ru/employer/4955545",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Developer",
+        "Link": "https://hh.ru/vacancy/41505639?query=python",
+        "Salary": {
+            "Min": 2500.0,
+            "Max": 3300.0,
+            "Valuta": "USD"
+        },
+        "Company": "ООО Mad Devs",
+        "Company Link": "https://hh.ru/employer/2861993",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/42185048?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " МАГНИТ, Розничная сеть",
+        "Company Link": "https://hh.ru/employer/49357",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "QA-стажер",
+        "Link": "https://hh.ru/vacancy/42028713?query=python",
+        "Salary": {
+            "Min": 25000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Крит",
+        "Company Link": "https://hh.ru/employer/1115346",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer удаленно",
+        "Link": "https://hh.ru/vacancy/41482164?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": " B2Broker Санкт-Петербург",
+        "Company Link": "https://hh.ru/employer/2234168?dpt=2234168-2234168-spb",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend developer (Python)",
+        "Link": "https://hh.ru/vacancy/41976796?query=python",
+        "Salary": {
+            "Min": 90000.0,
+            "Max": 150000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Генотек",
+        "Company Link": "https://hh.ru/employer/1276080",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/42074585?query=python",
+        "Salary": {
+            "Min": 100000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": " iCash",
+        "Company Link": "https://hh.ru/employer/4679431",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer (удаленно)",
+        "Link": "https://hh.ru/vacancy/41630646?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": " B2Broker Санкт-Петербург",
+        "Company Link": "https://hh.ru/employer/2234168?dpt=2234168-2234168-spb",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer",
+        "Link": "https://hh.ru/vacancy/41567280?query=python",
+        "Salary": {
+            "Min": 230000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Кадровое агентство Юнити",
+        "Company Link": "https://hh.ru/employer/985",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/42204962?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " KamaGames Studio",
+        "Company Link": "https://hh.ru/employer/954249",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Стажер (Аналитик данных)",
+        "Link": "https://hh.ru/vacancy/42183340?query=python",
+        "Salary": {
+            "Min": 40000.0,
+            "Max": 50000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Гензис",
+        "Company Link": "https://hh.ru/employer/2208439",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Backend разработчик",
+        "Link": "https://hh.ru/vacancy/41040272?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 250000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Декаст Инжиниринг",
+        "Company Link": "https://hh.ru/employer/3337220",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python программист (Django)",
+        "Link": "https://hh.ru/vacancy/42167994?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Stik",
+        "Company Link": "https://hh.ru/employer/4205476",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик",
+        "Link": "https://hh.ru/vacancy/41912756?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " DEF",
+        "Company Link": "https://hh.ru/employer/3192689",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer (remote)",
+        "Link": "https://hh.ru/vacancy/42182703?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Nitka Technologies",
+        "Company Link": "https://hh.ru/employer/939874",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior QA Automation Engineer (Python)",
+        "Link": "https://hh.ru/vacancy/41467833?query=python",
+        "Salary": {
+            "Min": 250000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Scalable Solutions",
+        "Company Link": "https://hh.ru/employer/5078562",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/42036410?query=python",
+        "Salary": {
+            "Min": 60000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Тelecontact",
+        "Company Link": "https://hh.ru/employer/103561",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python/Django разработчик",
+        "Link": "https://hh.ru/vacancy/42098262?query=python",
+        "Salary": {
+            "Min": 70000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО ИДАГРУПП",
+        "Company Link": "https://hh.ru/employer/1579449",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend разработчик Python (Django) (middle+/senior)",
+        "Link": "https://hh.ru/vacancy/42149783?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО «КИОУТ»",
+        "Company Link": "https://hh.ru/employer/146328",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/41900746?query=python",
+        "Salary": {
+            "Min": 130000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "АО Национальное Радиотехническое Бюро",
+        "Company Link": "https://hh.ru/employer/4874827",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python developer( teamlead)/ Middle Python developer",
+        "Link": "https://hh.ru/vacancy/41524273?query=python",
+        "Salary": {
+            "Min": 230000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " ASD Korea",
+        "Company Link": "https://hh.ru/employer/4660237",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data Science разработчик/математик-программист (Junior+/ Middle)",
+        "Link": "https://hh.ru/vacancy/41967969?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": 170000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Лаборатория Наносемантика",
+        "Company Link": "https://hh.ru/employer/4112759",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer",
+        "Link": "https://hh.ru/vacancy/41968459?query=python",
+        "Salary": {
+            "Min": 43000.0,
+            "Max": 100000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО КОМТЕК",
+        "Company Link": "https://hh.ru/employer/941566",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle Python Developer",
+        "Link": "https://hh.ru/vacancy/42003523?query=python",
+        "Salary": {
+            "Min": 60000.0,
+            "Max": 130000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Qmobi Ltd",
+        "Company Link": "https://hh.ru/employer/1641649",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Engineer (Remote)",
+        "Link": "https://hh.ru/vacancy/41961714?query=python",
+        "Salary": {
+            "Min": 210000.0,
+            "Max": 260000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Spark Equation",
+        "Company Link": "https://hh.ru/employer/1787419",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python backend разработчик",
+        "Link": "https://hh.ru/vacancy/41946667?query=python",
+        "Salary": {
+            "Min": 140000.0,
+            "Max": 160000.0,
+            "Valuta": "руб"
+        },
+        "Company": " UAB Softeka",
+        "Company Link": "https://hh.ru/employer/4116383",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-разработчик (Django, DRF)",
+        "Link": "https://hh.ru/vacancy/39736489?query=python",
+        "Salary": {
+            "Min": 60000.0,
+            "Max": 150000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Фабрика Решений",
+        "Company Link": "https://hh.ru/employer/4596113",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Web Developer",
+        "Link": "https://hh.ru/vacancy/41851798?query=python",
+        "Salary": {
+            "Min": 3500.0,
+            "Max": 5000.0,
+            "Valuta": "USD"
+        },
+        "Company": " Soshace",
+        "Company Link": "https://hh.ru/employer/1738507",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/41981631?query=python",
+        "Salary": {
+            "Min": 100000.0,
+            "Max": 150000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Телепорт",
+        "Company Link": "https://hh.ru/employer/2712343",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle Python Developer",
+        "Link": "https://hh.ru/vacancy/41504788?query=python",
+        "Salary": {
+            "Min": 900.0,
+            "Max": 1600.0,
+            "Valuta": "USD"
+        },
+        "Company": "ООО Mad Devs",
+        "Company Link": "https://hh.ru/employer/2861993",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python back-end developer",
+        "Link": "https://hh.ru/vacancy/41527385?query=python",
+        "Salary": {
+            "Min": 80000.0,
+            "Max": 130000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО М-АППС",
+        "Company Link": "https://hh.ru/employer/2937228",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer (remote)",
+        "Link": "https://hh.ru/vacancy/42182700?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Nitka Technologies",
+        "Company Link": "https://hh.ru/employer/939874",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Python/Django Developer",
+        "Link": "https://hh.ru/vacancy/42141443?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО СМ",
+        "Company Link": "https://hh.ru/employer/2971863",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data scientist",
+        "Link": "https://hh.ru/vacancy/42152539?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " dentsu",
+        "Company Link": "https://hh.ru/employer/6528",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-разработчик (Middle)",
+        "Link": "https://hh.ru/vacancy/42165443?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 220000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Латера",
+        "Company Link": "https://hh.ru/employer/1050345",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Backend Developer / WEB - разработчик",
+        "Link": "https://hh.ru/vacancy/41025196?query=python",
+        "Salary": {
+            "Min": 160000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Перфект Системс",
+        "Company Link": "https://hh.ru/employer/1713030",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист-стажер",
+        "Link": "https://hh.ru/vacancy/42153605?query=python",
+        "Salary": {
+            "Min": 30000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Octavian",
+        "Company Link": "https://hh.ru/employer/207866",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python backend разработчик",
+        "Link": "https://hh.ru/vacancy/41456858?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " AdCombo.com",
+        "Company Link": "https://hh.ru/employer/1321508",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-Django Senior Developer",
+        "Link": "https://hh.ru/vacancy/41939355?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Mediante",
+        "Company Link": "https://hh.ru/employer/4530099",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python (+ Удаленная работа)",
+        "Link": "https://hh.ru/vacancy/40097763?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО «Баланс-Платформа»",
+        "Company Link": "https://hh.ru/employer/2643808",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend-разработчик Python",
+        "Link": "https://hh.ru/vacancy/41847830?query=python",
+        "Salary": {
+            "Min": 170000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Мирамедикс",
+        "Company Link": "https://hh.ru/employer/4215818",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Developer",
+        "Link": "https://hh.ru/vacancy/41418286?query=python",
+        "Salary": {
+            "Min": 3500.0,
+            "Max": 5000.0,
+            "Valuta": "USD"
+        },
+        "Company": " RocketData",
+        "Company Link": "https://hh.ru/employer/3591220",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer (remote)",
+        "Link": "https://hh.ru/vacancy/42182704?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Nitka Technologies",
+        "Company Link": "https://hh.ru/employer/939874",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Data Scientist",
+        "Link": "https://hh.ru/vacancy/40829662?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Rubetek",
+        "Company Link": "https://hh.ru/employer/1918781",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer (remote)",
+        "Link": "https://hh.ru/vacancy/42182701?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Nitka Technologies",
+        "Company Link": "https://hh.ru/employer/939874",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Back-end Developer (Python)",
+        "Link": "https://hh.ru/vacancy/41067706?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Иннотех, Группа компаний",
+        "Company Link": "https://hh.ru/employer/4649269",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-разработчик в IT-проект (в Сочи)",
+        "Link": "https://hh.ru/vacancy/41907297?query=python",
+        "Salary": {
+            "Min": 110000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Привет, Интернет",
+        "Company Link": "https://hh.ru/employer/2812305",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle Python Backend developer",
+        "Link": "https://hh.ru/vacancy/42211097?query=python",
+        "Salary": {
+            "Min": 90000.0,
+            "Max": 150000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Center-Game",
+        "Company Link": "https://hh.ru/employer/1449981",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Front-end программист (HTML, CSS, JavaScript)",
+        "Link": "https://hh.ru/vacancy/42071349?query=python",
+        "Salary": {
+            "Min": 50000.0,
+            "Max": 80000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Пларсон",
+        "Company Link": "https://hh.ru/employer/166404",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Ведущий Python разработчик",
+        "Link": "https://hh.ru/vacancy/38728444?query=python",
+        "Salary": {
+            "Min": 170000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО ВижнЛабс (VisionLabs)",
+        "Company Link": "https://hh.ru/employer/1978012",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/41174764?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Diamond Personnel R&C",
+        "Company Link": "https://hh.ru/employer/37623",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer",
+        "Link": "https://hh.ru/vacancy/41793426?query=python",
+        "Salary": {
+            "Min": 80000.0,
+            "Max": 130000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Digital Nomads",
+        "Company Link": "https://hh.ru/employer/1597722",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python/Django разработчик",
+        "Link": "https://hh.ru/vacancy/35110031?query=python",
+        "Salary": {
+            "Min": 40000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": " ReTech Labs",
+        "Company Link": "https://hh.ru/employer/3342250",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик",
+        "Link": "https://hh.ru/vacancy/41748699?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 50000.0,
+            "Valuta": "руб"
+        },
+        "Company": " AppEvent",
+        "Company Link": "https://hh.ru/employer/4322822",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик python",
+        "Link": "https://hh.ru/vacancy/41192990?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО СЗ Самолет Девелопмент",
+        "Company Link": "https://hh.ru/employer/1102601",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/40030321?query=python",
+        "Salary": {
+            "Min": 70000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Электронная медицина",
+        "Company Link": "https://hh.ru/employer/815055",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/41588440?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО ФоксТри",
+        "Company Link": "https://hh.ru/employer/4422400",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python/Django (сфера 3D-печати и цифрового производства)",
+        "Link": "https://hh.ru/vacancy/41772554?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": 190000.0,
+            "Valuta": "руб"
+        },
+        "Company": " DigiFabster",
+        "Company Link": "https://hh.ru/employer/4899473",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer (remote)",
+        "Link": "https://hh.ru/vacancy/42182702?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Nitka Technologies",
+        "Company Link": "https://hh.ru/employer/939874",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer",
+        "Link": "https://hh.ru/vacancy/41461918?query=python",
+        "Salary": {
+            "Min": 1900.0,
+            "Max": 2500.0,
+            "Valuta": "USD"
+        },
+        "Company": " B2Broker Москва",
+        "Company Link": "https://hh.ru/employer/2234168?dpt=2234168-2234168-msk",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend Python разработчик",
+        "Link": "https://hh.ru/vacancy/42212476?query=python",
+        "Salary": {
+            "Min": 100000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Умскул",
+        "Company Link": "https://hh.ru/employer/4557535",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle Python developer",
+        "Link": "https://hh.ru/vacancy/41194506?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " First_Line",
+        "Company Link": "https://hh.ru/employer/3863113",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python (back-end разработчик)",
+        "Link": "https://hh.ru/vacancy/42028607?query=python",
+        "Salary": {
+            "Min": 80000.0,
+            "Max": 180000.0,
+            "Valuta": "руб"
+        },
+        "Company": "АО Эшелон-Северо-Запад",
+        "Company Link": "https://hh.ru/employer/1737940",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/40835889?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ДомКлик",
+        "Company Link": "https://hh.ru/employer/2136954",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/41445748?query=python",
+        "Salary": {
+            "Min": 90000.0,
+            "Max": 160000.0,
+            "Valuta": "руб"
+        },
+        "Company": " The Head",
+        "Company Link": "https://hh.ru/employer/1134687",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python backend разработчик (middle+)",
+        "Link": "https://hh.ru/vacancy/42181531?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": 180000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Media5",
+        "Company Link": "https://hh.ru/employer/2255478",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Python Developer",
+        "Link": "https://hh.ru/vacancy/41421314?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ТОО iMAS GROUP",
+        "Company Link": "https://hh.ru/employer/2794209",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python (Senior/Middle)",
+        "Link": "https://hh.ru/vacancy/41766255?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "АО РФИ БАНК",
+        "Company Link": "https://hh.ru/employer/720373",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python developer",
+        "Link": "https://hh.ru/vacancy/41263186?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Руформ",
+        "Company Link": "https://hh.ru/employer/1440683",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик",
+        "Link": "https://hh.ru/vacancy/41095804?query=python",
+        "Salary": {
+            "Min": 110000.0,
+            "Max": 140000.0,
+            "Valuta": "руб"
+        },
+        "Company": " ВАВТ МИНЭКОНОМРАЗВИТИЯ РОССИИ",
+        "Company Link": "https://hh.ru/employer/66121",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-разработчик (Middle)",
+        "Link": "https://hh.ru/vacancy/41650810?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 220000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Латера",
+        "Company Link": "https://hh.ru/employer/1050345",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-разработчик",
+        "Link": "https://hh.ru/vacancy/42156393?query=python",
+        "Salary": {
+            "Min": 60000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " JetStyle",
+        "Company Link": "https://hh.ru/employer/4515",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/41949765?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 80000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Соушиал Линкс",
+        "Company Link": "https://hh.ru/employer/2363532",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer/Разработчик Python",
+        "Link": "https://hh.ru/vacancy/41850662?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Internest",
+        "Company Link": "https://hh.ru/employer/41138",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data scientist (Аналитик)",
+        "Link": "https://hh.ru/vacancy/42196722?query=python",
+        "Salary": {
+            "Min": 40000.0,
+            "Max": 80000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Займиго МФК",
+        "Company Link": "https://hh.ru/employer/1457854",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/40551245?query=python",
+        "Salary": {
+            "Min": 110000.0,
+            "Max": 140000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Институт прикладных экономических исследований РАНХиГС при Президенте Российской Федерации",
+        "Company Link": "https://hh.ru/employer/3094338",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer",
+        "Link": "https://hh.ru/vacancy/42189758?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " iTechArt Group",
+        "Company Link": "https://hh.ru/employer/666194",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python-разработчик",
+        "Link": "https://hh.ru/vacancy/41448300?query=python",
+        "Salary": {
+            "Min": 170000.0,
+            "Max": 250000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Где Лучше",
+        "Company Link": "https://hh.ru/employer/1303086",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/35871016?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО НТ Прогресс",
+        "Company Link": "https://hh.ru/employer/2283457",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик",
+        "Link": "https://hh.ru/vacancy/40547800?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 220000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Константа",
+        "Company Link": "https://hh.ru/employer/2279941",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/41991927?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Прикладные технологии",
+        "Company Link": "https://hh.ru/employer/653937",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/42156268?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО Vallexsoftware",
+        "Company Link": "https://hh.ru/employer/2291011",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "QA Engineer Intern",
+        "Link": "https://hh.ru/vacancy/41785619?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ViCue Soft",
+        "Company Link": "https://hh.ru/employer/4023886",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior/Middle Python разработчик",
+        "Link": "https://hh.ru/vacancy/41954622?query=python",
+        "Salary": {
+            "Min": 25000.0,
+            "Max": 70000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Айтек",
+        "Company Link": "https://hh.ru/employer/2804413",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer",
+        "Link": "https://hh.ru/vacancy/41005910?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 800000.0,
+            "Valuta": "KZT"
+        },
+        "Company": "ТОО AVIATA.KZ",
+        "Company Link": "https://hh.ru/employer/1392137",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Software Engineer (Python)",
+        "Link": "https://hh.ru/vacancy/41187077?query=python",
+        "Salary": {
+            "Min": 250000.0,
+            "Max": 300000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Алемира Рисерч",
+        "Company Link": "https://hh.ru/employer/5022461",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик",
+        "Link": "https://hh.ru/vacancy/42120645?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " TransWare AG",
+        "Company Link": "https://hh.ru/employer/3826874",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Backend Software Engineer (Python / Django)",
+        "Link": "https://hh.ru/vacancy/41874004?query=python",
+        "Salary": {
+            "Min": 2000.0,
+            "Max": 3000.0,
+            "Valuta": "USD"
+        },
+        "Company": " Appboxo Pte. Ltd.",
+        "Company Link": "https://hh.ru/employer/5167878",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data Scientist",
+        "Link": "https://hh.ru/vacancy/41881268?query=python",
+        "Salary": {
+            "Min": 101200.0,
+            "Max": 122500.0,
+            "Valuta": "руб"
+        },
+        "Company": "ПАО КБ «Уральский банк реконструкции и развития» (УБРиР)",
+        "Company Link": "https://hh.ru/employer/953",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer (удаленно)",
+        "Link": "https://hh.ru/vacancy/41630700?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": " B2Broker Санкт-Петербург",
+        "Company Link": "https://hh.ru/employer/2234168?dpt=2234168-2234168-spb",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист – разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/42162779?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО СОФТ ДИВИЖН",
+        "Company Link": "https://hh.ru/employer/4818410",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle+ Python Developer",
+        "Link": "https://hh.ru/vacancy/42018670?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Levi9 Ukraine",
+        "Company Link": "https://hh.ru/employer/702784",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle Developer ( Python ) – разработчик",
+        "Link": "https://hh.ru/vacancy/41797101?query=python",
+        "Salary": {
+            "Min": 100000.0,
+            "Max": 150000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО ФомЛайн",
+        "Company Link": "https://hh.ru/employer/108082",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Developer",
+        "Link": "https://hh.ru/vacancy/41607498?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Билайн",
+        "Company Link": "https://hh.ru/employer/4934?dpt=bil-4934-beel",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python developer",
+        "Link": "https://hh.ru/vacancy/41065647?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 220000.0,
+            "Valuta": "руб"
+        },
+        "Company": " First_Line",
+        "Company Link": "https://hh.ru/employer/3863113",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer",
+        "Link": "https://hh.ru/vacancy/41482310?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " SIBERS",
+        "Company Link": "https://hh.ru/employer/51423",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик",
+        "Link": "https://hh.ru/vacancy/42145973?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Сбер для экспертов",
+        "Company Link": "https://hh.ru/employer/3529?dpt=3529-3529-prof",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Django разработчик",
+        "Link": "https://hh.ru/vacancy/41452084?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО Юником",
+        "Company Link": "https://hh.ru/employer/792914",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Удаленный стажер аналитик (геоинформационные системы, картография, анализ данных)",
+        "Link": "https://hh.ru/vacancy/42165293?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО МАЙНДСЭТ",
+        "Company Link": "https://hh.ru/employer/3666817",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data Scientist (computer vision)",
+        "Link": "https://hh.ru/vacancy/36997030?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Prequel",
+        "Company Link": "https://hh.ru/employer/3297595",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/42013138?query=python",
+        "Salary": {
+            "Min": 90000.0,
+            "Max": 150000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Гензис",
+        "Company Link": "https://hh.ru/employer/2208439",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/42081890?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Сбер для экспертов",
+        "Company Link": "https://hh.ru/employer/3529?dpt=3529-3529-prof",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-разработчик",
+        "Link": "https://hh.ru/vacancy/41620379?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Новакид РУС",
+        "Company Link": "https://hh.ru/employer/851716",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/42199899?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " AT Consulting",
+        "Company Link": "https://hh.ru/employer/20145",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Python developer",
+        "Link": "https://hh.ru/vacancy/42137098?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Группа НЛМК",
+        "Company Link": "https://hh.ru/employer/988387",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer + С# (CoreTech)",
+        "Link": "https://hh.ru/vacancy/38907066?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Лаборатория Касперского",
+        "Company Link": "https://hh.ru/employer/1057",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python backend",
+        "Link": "https://hh.ru/vacancy/37533024?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 80000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Офисный Мир КМ",
+        "Company Link": "https://hh.ru/employer/754148",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Инженер-программист Python",
+        "Link": "https://hh.ru/vacancy/41959154?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Центр финансовых технологий",
+        "Company Link": "https://hh.ru/employer/8550",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle / Senior Django разработчик (удаленно)",
+        "Link": "https://hh.ru/vacancy/41550470?query=python",
+        "Salary": {
+            "Min": 70000.0,
+            "Max": 160000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Онли",
+        "Company Link": "https://hh.ru/employer/2784586",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/42184777?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " МАГНИТ, Розничная сеть",
+        "Company Link": "https://hh.ru/employer/49357",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-разработчик",
+        "Link": "https://hh.ru/vacancy/41514962?query=python",
+        "Salary": {
+            "Min": 60000.0,
+            "Max": 100000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Единая Информационная Система ЖКХ",
+        "Company Link": "https://hh.ru/employer/3719126",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python (Back-end) Developer",
+        "Link": "https://hh.ru/vacancy/40380485?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " BP Mobile",
+        "Company Link": "https://hh.ru/employer/645117",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/40376578?query=python",
+        "Salary": {
+            "Min": 30000.0,
+            "Max": 80000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Электронная медицина",
+        "Company Link": "https://hh.ru/employer/815055",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-разработчик (Чат-платформа)",
+        "Link": "https://hh.ru/vacancy/42201933?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Тинькофф",
+        "Company Link": "https://hh.ru/employer/78638",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик на Backend (middle)",
+        "Link": "https://hh.ru/vacancy/40482053?query=python",
+        "Salary": {
+            "Min": 80000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Группа Компаний Стилсофт",
+        "Company Link": "https://hh.ru/employer/876275",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик\\Программист Python(Django)",
+        "Link": "https://hh.ru/vacancy/41724226?query=python",
+        "Salary": {
+            "Min": 50000.0,
+            "Max": 70000.0,
+            "Valuta": "руб"
+        },
+        "Company": " ПИКАССО",
+        "Company Link": "https://hh.ru/employer/737268",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Developer ( Python ) – разработчик",
+        "Link": "https://hh.ru/vacancy/41797059?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 220000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО ФомЛайн",
+        "Company Link": "https://hh.ru/employer/108082",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Младший разработчик Go, Поисковая оптимизация",
+        "Link": "https://hh.ru/vacancy/42139835?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Ozon Информационные технологии",
+        "Company Link": "https://hh.ru/employer/2180?dpt=ozonru-2180-dev",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/41622431?query=python",
+        "Salary": {
+            "Min": 60000.0,
+            "Max": 70000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Alente, агентство интернет-маркетинга",
+        "Company Link": "https://hh.ru/employer/1765911",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист - Разработчик среднего уровеня Python / Django",
+        "Link": "https://hh.ru/vacancy/41751172?query=python",
+        "Salary": {
+            "Min": 2000.0,
+            "Max": 2000.0,
+            "Valuta": "USD"
+        },
+        "Company": " Колесникова Елена Владимировна",
+        "Company Link": "https://hh.ru/employer/4972909",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data Scientist",
+        "Link": "https://hh.ru/vacancy/41592918?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ATI.SU",
+        "Company Link": "https://hh.ru/employer/10607",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист C / Python (Linux)",
+        "Link": "https://hh.ru/vacancy/41588675?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 170000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО СДН-видео",
+        "Company Link": "https://hh.ru/employer/864643",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle Python программист",
+        "Link": "https://hh.ru/vacancy/37942316?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 160000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Офисный Мир КМ",
+        "Company Link": "https://hh.ru/employer/754148",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer",
+        "Link": "https://hh.ru/vacancy/41876803?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " B2Broker Санкт-Петербург",
+        "Company Link": "https://hh.ru/employer/2234168?dpt=2234168-2234168-spb",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/41903362?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО БалансПроф",
+        "Company Link": "https://hh.ru/employer/947347",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Бэкенд-разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/42184554?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ЮТэйр, Авиакомпания",
+        "Company Link": "https://hh.ru/employer/17713",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/41724811?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 90000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Неовокс Технологии",
+        "Company Link": "https://hh.ru/employer/5029378",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle Python Developer",
+        "Link": "https://hh.ru/vacancy/40293603?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 120000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Тагес Джамп",
+        "Company Link": "https://hh.ru/employer/1480667",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-разработчик Pre Middle / Middle",
+        "Link": "https://hh.ru/vacancy/42151905?query=python",
+        "Salary": {
+            "Min": 60000.0,
+            "Max": 120000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО ИТС",
+        "Company Link": "https://hh.ru/employer/2510287",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python-разработчик",
+        "Link": "https://hh.ru/vacancy/42202145?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Тинькофф",
+        "Company Link": "https://hh.ru/employer/78638",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Data Analyst",
+        "Link": "https://hh.ru/vacancy/41875176?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Ridex GmbH",
+        "Company Link": "https://hh.ru/employer/3060884",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle QA Automation Engineer (Python)",
+        "Link": "https://hh.ru/vacancy/42178374?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Capital Recruiters",
+        "Company Link": "https://hh.ru/employer/157789",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "QA Automation Engineer (Python / JavaScript)",
+        "Link": "https://hh.ru/vacancy/38973276?query=python",
+        "Salary": {
+            "Min": 140000.0,
+            "Max": 160000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Ассоциация IPChain",
+        "Company Link": "https://hh.ru/employer/3151408",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Developer",
+        "Link": "https://hh.ru/vacancy/41419705?query=python",
+        "Salary": {
+            "Min": 3500.0,
+            "Max": 5000.0,
+            "Valuta": "USD"
+        },
+        "Company": " RocketData",
+        "Company Link": "https://hh.ru/employer/3591220",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python ( почтомат)",
+        "Link": "https://hh.ru/vacancy/42145579?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ПАО Совкомбанк",
+        "Company Link": "https://hh.ru/employer/7944",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Ведущий Python разработчик / Senior Python Developer",
+        "Link": "https://hh.ru/vacancy/42204873?query=python",
+        "Salary": {
+            "Min": 180000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО АвтоЭксперт",
+        "Company Link": "https://hh.ru/employer/3144605",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer",
+        "Link": "https://hh.ru/vacancy/41736508?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " IT2G",
+        "Company Link": "https://hh.ru/employer/2754726",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer",
+        "Link": "https://hh.ru/vacancy/42014779?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Софтмакс системы телеметрии",
+        "Company Link": "https://hh.ru/employer/1062346",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior/Middle ML Engineer (Data Scientist)",
+        "Link": "https://hh.ru/vacancy/41907033?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Адаперио",
+        "Company Link": "https://hh.ru/employer/2845847",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python (Front-end)",
+        "Link": "https://hh.ru/vacancy/42139358?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО Группа компаний OPEN",
+        "Company Link": "https://hh.ru/employer/144335",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Architect",
+        "Link": "https://hh.ru/vacancy/41620935?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Russian Quantum Center",
+        "Company Link": "https://hh.ru/employer/1248425",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Developer",
+        "Link": "https://hh.ru/vacancy/42155653?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Capital Recruiters",
+        "Company Link": "https://hh.ru/employer/157789",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-разработчик",
+        "Link": "https://hh.ru/vacancy/42164418?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО ИСЕРВ",
+        "Company Link": "https://hh.ru/employer/861271",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Java/Python developer - dbIQ",
+        "Link": "https://hh.ru/vacancy/41508446?query=python",
+        "Salary": {
+            "Min": 220000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Deutsche Bank Technology Center",
+        "Company Link": "https://hh.ru/employer/1641540",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend developer python / Бэкенд-разработчик python",
+        "Link": "https://hh.ru/vacancy/40418921?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО СТМ",
+        "Company Link": "https://hh.ru/employer/607605",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик (SberDevices)",
+        "Link": "https://hh.ru/vacancy/41019318?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Сбер. IT",
+        "Company Link": "https://hh.ru/employer/3529?dpt=3529-3529-it",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Developer (Django/web-сервис)",
+        "Link": "https://hh.ru/vacancy/42116006?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": 300000.0,
+            "Valuta": "руб"
+        },
+        "Company": " РусПерсонал",
+        "Company Link": "https://hh.ru/employer/1320896",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Developer",
+        "Link": "https://hh.ru/vacancy/41649448?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " FOZZY GROUP, Корпорация",
+        "Company Link": "https://hh.ru/employer/25730",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Developer",
+        "Link": "https://hh.ru/vacancy/42155708?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Capital Recruiters",
+        "Company Link": "https://hh.ru/employer/157789",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Junior/Middle Backend Developer",
+        "Link": "https://hh.ru/vacancy/41739313?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " AxisPoint Consulting",
+        "Company Link": "https://hh.ru/employer/572549",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Специалист Data Science (Python)",
+        "Link": "https://hh.ru/vacancy/42175079?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ПАО «Газпром нефть»",
+        "Company Link": "https://hh.ru/employer/39305?dpt=gpn-39305-HOLD",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Бэкенд-разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/42184551?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ЮТэйр, Авиакомпания",
+        "Company Link": "https://hh.ru/employer/17713",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Backend Developer / WEB - разработчик",
+        "Link": "https://hh.ru/vacancy/40892909?query=python",
+        "Salary": {
+            "Min": 250000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Перфект Системс",
+        "Company Link": "https://hh.ru/employer/1713030",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик (FastAPI)",
+        "Link": "https://hh.ru/vacancy/41518498?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " HuskyJam",
+        "Company Link": "https://hh.ru/employer/2029737",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Python developer в Вологде",
+        "Link": "https://hh.ru/vacancy/41779318?query=python",
+        "Salary": {
+            "Min": 40000.0,
+            "Max": 40000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО ТЛ Групп",
+        "Company Link": "https://hh.ru/employer/1939886",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer",
+        "Link": "https://hh.ru/vacancy/36267171?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": " B2Broker Москва",
+        "Company Link": "https://hh.ru/employer/2234168?dpt=2234168-2234168-msk",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Старший аудитор (программирование на Python)",
+        "Link": "https://hh.ru/vacancy/42173912?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Сбер для экспертов",
+        "Company Link": "https://hh.ru/employer/3529?dpt=3529-3529-prof",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Ведущий Python разработчик",
+        "Link": "https://hh.ru/vacancy/41462312?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 270000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Кадровое агентство Юнити",
+        "Company Link": "https://hh.ru/employer/985",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python QA Developer",
+        "Link": "https://hh.ru/vacancy/41831142?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": 150000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО АльтероСмарт",
+        "Company Link": "https://hh.ru/employer/5008980",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer (Welps) / WFH",
+        "Link": "https://hh.ru/vacancy/41782130?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО Кометрика",
+        "Company Link": "https://hh.ru/employer/4381462",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python/Scala",
+        "Link": "https://hh.ru/vacancy/42177312?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " МАГНИТ, Розничная сеть",
+        "Company Link": "https://hh.ru/employer/49357",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior/ Программист Python",
+        "Link": "https://hh.ru/vacancy/40836909?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Digift",
+        "Company Link": "https://hh.ru/employer/3881763",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer",
+        "Link": "https://hh.ru/vacancy/42210368?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ПЕРВЫЙ ЦУПИС",
+        "Company Link": "https://hh.ru/employer/2590000",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Golang/Python разработчик (backend)",
+        "Link": "https://hh.ru/vacancy/41630061?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО Скайлав Рус",
+        "Company Link": "https://hh.ru/employer/4967543",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик",
+        "Link": "https://hh.ru/vacancy/40074370?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Quiet Media",
+        "Company Link": "https://hh.ru/employer/4422327",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer",
+        "Link": "https://hh.ru/vacancy/40858154?query=python",
+        "Salary": {
+            "Min": 100000.0,
+            "Max": 150000.0,
+            "Valuta": "руб"
+        },
+        "Company": " Энерджи Софт",
+        "Company Link": "https://hh.ru/employer/1316284",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Developer",
+        "Link": "https://hh.ru/vacancy/42155652?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Capital Recruiters",
+        "Company Link": "https://hh.ru/employer/157789",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python Developer",
+        "Link": "https://hh.ru/vacancy/41619883?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО Treeum",
+        "Company Link": "https://hh.ru/employer/2177434",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python/Scala",
+        "Link": "https://hh.ru/vacancy/42177311?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " МАГНИТ, Розничная сеть",
+        "Company Link": "https://hh.ru/employer/49357",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data Scientist",
+        "Link": "https://hh.ru/vacancy/41953986?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": 180000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО МАГ Девелопмент",
+        "Company Link": "https://hh.ru/employer/4382297",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Бэкенд-разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/42184553?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ЮТэйр, Авиакомпания",
+        "Company Link": "https://hh.ru/employer/17713",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer",
+        "Link": "https://hh.ru/vacancy/36267290?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": " B2Broker Санкт-Петербург",
+        "Company Link": "https://hh.ru/employer/2234168?dpt=2234168-2234168-spb",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer",
+        "Link": "https://hh.ru/vacancy/40447045?query=python",
+        "Salary": {
+            "Min": 1800.0,
+            "Max": 2500.0,
+            "Valuta": "USD"
+        },
+        "Company": " B2Broker Москва",
+        "Company Link": "https://hh.ru/employer/2234168?dpt=2234168-2234168-msk",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle Python developer",
+        "Link": "https://hh.ru/vacancy/37804918?query=python",
+        "Salary": {
+            "Min": 70000.0,
+            "Max": 120000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Финтех Айкью",
+        "Company Link": "https://hh.ru/employer/3882733",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Программист Python",
+        "Link": "https://hh.ru/vacancy/40924831?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 150000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Ай Ти Сервис",
+        "Company Link": "https://hh.ru/employer/3539265",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик SQL",
+        "Link": "https://hh.ru/vacancy/41905608?query=python",
+        "Salary": {
+            "Min": 200000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": "ООО ИнфоНет Мобил",
+        "Company Link": "https://hh.ru/employer/2000353",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик SberDevices",
+        "Link": "https://hh.ru/vacancy/41019313?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Сбер. IT",
+        "Company Link": "https://hh.ru/employer/3529?dpt=3529-3529-it",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Бэкенд-разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/42184557?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ЮТэйр, Авиакомпания",
+        "Company Link": "https://hh.ru/employer/17713",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python developer (Middle / Senior)",
+        "Link": "https://hh.ru/vacancy/40902708?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Big Data Solutions",
+        "Company Link": "https://hh.ru/employer/2487773",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик (Middle+/Senior)",
+        "Link": "https://hh.ru/vacancy/41481585?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " KOTELOV",
+        "Company Link": "https://hh.ru/employer/843093",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик",
+        "Link": "https://hh.ru/vacancy/42141031?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Сбер для экспертов",
+        "Company Link": "https://hh.ru/employer/3529?dpt=3529-3529-prof",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Разработчик Python",
+        "Link": "https://hh.ru/vacancy/40608121?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "АО Коммерческий банк «Хлынов»",
+        "Company Link": "https://hh.ru/employer/603989",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Junior Python Developer",
+        "Link": "https://hh.ru/vacancy/40799451?query=python",
+        "Salary": {
+            "Min": 30000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Improvado",
+        "Company Link": "https://hh.ru/employer/1815645",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle/Senior Python developer",
+        "Link": "https://hh.ru/vacancy/42210874?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Селфсек",
+        "Company Link": "https://hh.ru/employer/4920624",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python (Django) developer",
+        "Link": "https://hh.ru/vacancy/40115067?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": 220000.0,
+            "Valuta": "руб"
+        },
+        "Company": " evrone.ru",
+        "Company Link": "https://hh.ru/employer/598471",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Старший Python разработчик (Senior Developer/Lead)",
+        "Link": "https://hh.ru/vacancy/41649001?query=python",
+        "Salary": {
+            "Min": 160000.0,
+            "Max": 350000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО PROGNET",
+        "Company Link": "https://hh.ru/employer/3564390",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/42152515?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО Скайлав Рус",
+        "Company Link": "https://hh.ru/employer/4967543",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Бэкенд-разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/42145337?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ЮТэйр, Авиакомпания",
+        "Company Link": "https://hh.ru/employer/17713",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Middle Python Developer",
+        "Link": "https://hh.ru/vacancy/40268262?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "Иностр. п. Admitad",
+        "Company Link": "https://hh.ru/employer/921918",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Back-end Developer",
+        "Link": "https://hh.ru/vacancy/41842510?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Фингерз Медиа",
+        "Company Link": "https://hh.ru/employer/972978",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Team Lead (with Django & AWS)",
+        "Link": "https://hh.ru/vacancy/41178341?query=python",
+        "Salary": {
+            "Min": 240000.0,
+            "Max": null,
+            "Valuta": "руб"
+        },
+        "Company": " Sibedge",
+        "Company Link": "https://hh.ru/employer/636653",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Teamlead Backend (Python)",
+        "Link": "https://hh.ru/vacancy/40840868?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": 300000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Фабрика Решений",
+        "Company Link": "https://hh.ru/employer/4596113",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data Scientist",
+        "Link": "https://hh.ru/vacancy/41801692?query=python",
+        "Salary": {
+            "Min": 150000.0,
+            "Max": 200000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО Софтвайс",
+        "Company Link": "https://hh.ru/employer/4295296",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python-разработчик (Computer vision)",
+        "Link": "https://hh.ru/vacancy/42201994?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Тинькофф",
+        "Company Link": "https://hh.ru/employer/78638",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data Scientist",
+        "Link": "https://hh.ru/vacancy/39491287?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО ГАЗИНФОРМСЕРВИС",
+        "Company Link": "https://hh.ru/employer/61166",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик ( => ruby)",
+        "Link": "https://hh.ru/vacancy/42179631?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО Облачные решения",
+        "Company Link": "https://hh.ru/employer/2472075",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend/Full Stack Python developer",
+        "Link": "https://hh.ru/vacancy/42035076?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Cointelegraph Consulting",
+        "Company Link": "https://hh.ru/employer/5092979",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Programming intern",
+        "Link": "https://hh.ru/vacancy/41648633?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Wargaming, Saint Petersburg (Lesta Studio)",
+        "Company Link": "https://hh.ru/employer/662769?dpt=662769-662769-piter",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Developer / Программист Python",
+        "Link": "https://hh.ru/vacancy/42197033?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Playrix",
+        "Company Link": "https://hh.ru/employer/114448",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Data Scientist",
+        "Link": "https://hh.ru/vacancy/41953984?query=python",
+        "Salary": {
+            "Min": 120000.0,
+            "Max": 180000.0,
+            "Valuta": "руб"
+        },
+        "Company": "ООО МАГ Девелопмент",
+        "Company Link": "https://hh.ru/employer/4382297",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик",
+        "Link": "https://hh.ru/vacancy/39875431?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Cardsmobile (Приложение «Кошелёк»)",
+        "Company Link": "https://hh.ru/employer/2032205",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python разработчик",
+        "Link": "https://hh.ru/vacancy/42069560?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ПИК-БРОКЕР",
+        "Company Link": "https://hh.ru/employer/3089830",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Бэкенд-разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/42184547?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " ЮТэйр, Авиакомпания",
+        "Company Link": "https://hh.ru/employer/17713",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python developer",
+        "Link": "https://hh.ru/vacancy/41562518?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Recruit Alliance",
+        "Company Link": "https://hh.ru/employer/1212132",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Аналитик (Python, SQL)",
+        "Link": "https://hh.ru/vacancy/42121683?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": " Mediascope",
+        "Company Link": "https://hh.ru/employer/2739341",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Backend разработчик (Python)",
+        "Link": "https://hh.ru/vacancy/40969780?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО Флайдата",
+        "Company Link": "https://hh.ru/employer/4336249",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Программист разработчик",
+        "Link": "https://hh.ru/vacancy/41832950?query=python",
+        "Salary": {
+            "Min": null,
+            "Max": null,
+            "Valuta": null
+        },
+        "Company": "ООО РНД поинт",
+        "Company Link": "https://hh.ru/employer/4925233",
+        "Site": "HeadHunter"
+    }
+]
