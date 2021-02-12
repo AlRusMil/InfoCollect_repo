@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Strong junior / Middle Python Developer",
+        "Link": "https://hh.ru/vacancy/42134948?query=python",
+        "Salary": {
+            "Min": 1000.0,
+            "Max": 4000.0,
+            "Valuta": "USD"
+        },
+        "Company": " Starnavi",
+        "Company Link": "https://hh.ru/employer/3269629",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Software Engineer (Senior Developer)",
+        "Link": "https://hh.ru/vacancy/42147914?query=python",
+        "Salary": {
+            "Min": 5000.0,
+            "Max": 7000.0,
+            "Valuta": "USD"
+        },
+        "Company": " 21 Creative Agency",
+        "Company Link": "https://hh.ru/employer/5161401",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Senior Python developer",
+        "Link": "https://hh.ru/vacancy/30005963?query=python",
+        "Salary": {
+            "Min": 4000.0,
+            "Max": null,
+            "Valuta": "USD"
+        },
+        "Company": " NetworkOptix",
+        "Company Link": "https://hh.ru/employer/899854",
+        "Site": "HeadHunter"
+    },
+    {
+        "Name": "Python Web Developer",
+        "Link": "https://hh.ru/vacancy/41851796?query=python",
+        "Salary": {
+            "Min": 3500.0,
+            "Max": 6500.0,
+            "Valuta": "USD"
+        },
+        "Company": " Soshace",
+        "Company Link": "https://hh.ru/employer/1738507",
+        "Site": "HeadHunter"
+    }
+]
