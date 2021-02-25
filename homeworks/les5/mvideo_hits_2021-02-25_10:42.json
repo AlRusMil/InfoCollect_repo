@@ -1,0 +1,114 @@
+[
+    {
+        "Link": "https://www.mvideo.ru/products/kofemashina-kapsulnogo-tipa-dolce-gusto-krups-piccolo-xs-kp1a3b10-20068767",
+        "Name": "Кофемашина капсульного типа Dolce Gusto Krups Piccolo XS KP1A3B10",
+        "Price": "3990.00",
+        "Category": "Кофемашины",
+        "Vendor": "Krups"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/elektrochainik-tefal-loft-ko250130-20062333",
+        "Name": "Электрочайник Tefal Loft KO250130",
+        "Price": "2990.00",
+        "Category": "Электрочайники",
+        "Vendor": "Tefal"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/robot-pylesos-tefal-smart-force-x-plorer-rg6825wh-20063304",
+        "Name": "Робот-пылесос Tefal Smart Force X-plorer RG6825WH",
+        "Price": "22990.00",
+        "Category": "Пылесосы",
+        "Vendor": "Tefal"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/pylesos-ruchnoi-handstick-tefal-x-pert-3-60-versatile-handstick-ty6975wo-20070525",
+        "Name": "Пылесос ручной (handstick) Tefal X-PERT 3.60 Versatile Handstick TY6975WO",
+        "Price": "11990.00",
+        "Category": "Пылесосы",
+        "Vendor": "Tefal"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/utug-tefal-ultimate-pure-fv9848e0-20064922",
+        "Name": "Утюг Tefal Ultimate Pure FV9848E0",
+        "Price": "8990.00",
+        "Category": "Утюги",
+        "Vendor": "Tefal"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/pogruzhnoi-blender-tefal-optitouch-hb833132-20062528",
+        "Name": "Погружной блендер Tefal Optitouch HB833132",
+        "Price": "2190.00",
+        "Category": "Миксеры и блендеры",
+        "Vendor": "Tefal"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/multivarka-moulinex-fuzzy-logic-mk707832-20042012",
+        "Name": "Мультиварка Moulinex Fuzzy Logic MK707832",
+        "Price": "4490.00",
+        "Category": "Мультиварки",
+        "Vendor": "Moulinex"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/smartfon-huawei-p-smart-2021-4-128gb-midnight-black-ppa-lx1-30053814",
+        "Name": "Смартфон Huawei P Smart 2021 4+128GB Midnight Black (PPA-LX1)",
+        "Price": "13990.00",
+        "Category": "Смартфоны",
+        "Vendor": "Huawei"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/smart-chasy-samsung-galaxy-watch-active-sm-r500-nezhnaya-pudra-30043073",
+        "Name": "Смарт-часы Samsung Galaxy Watch Active SM-R500 Нежная пудра",
+        "Price": "12990.00",
+        "Category": "Смарт-часы",
+        "Vendor": "Samsung"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/elektrobritva-philips-s1133-41-20067803",
+        "Name": "Электробритва Philips S1133/41",
+        "Price": "2590.00",
+        "Category": "Электробритвы",
+        "Vendor": "Philips"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/elektricheskaya-zubnaya-shhetka-braun-oral-b-vitality-d100-413-1-crossaction-1-1-20065314",
+        "Name": "Электрическая зубная щетка Braun ORAL-B Vitality D100.413.1 CrossAction 1+1",
+        "Price": "2490.00",
+        "Category": "Зубные щетки",
+        "Vendor": "Braun"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/mashinka-dlya-strizhki-volos-rowenta-advancer-tn5240f-0-1-20061816",
+        "Name": "Машинка для стрижки волос Rowenta Advancer TN5240F(0/1)",
+        "Price": "3990.00",
+        "Category": "Машинки для стрижки волос",
+        "Vendor": "Rowenta"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/epilyator-philips-bre235-00-20061464",
+        "Name": "Эпилятор Philips BRE235/00",
+        "Price": "2290.00",
+        "Category": "Эпиляторы и аксессуары",
+        "Vendor": "Philips"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/fen-shhetka-rowenta-brush-activ-premium-care-cf9540f0-20038516",
+        "Name": "Фен-щетка Rowenta Brush Activ Premium Care CF9540F0",
+        "Price": "4490.00",
+        "Category": "Фены и фен-щетки",
+        "Vendor": "Rowenta"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/televizor-lg-49un74006la-10024123",
+        "Name": "Телевизор LG 49UN74006LA",
+        "Price": "38990.00",
+        "Category": "Телевизоры",
+        "Vendor": "LG"
+    },
+    {
+        "Link": "https://www.mvideo.ru/products/holodilnik-lg-doorcooling-ga-b509clwl-20066238",
+        "Name": "Холодильник LG DoorCooling+ GA-B509CLWL",
+        "Price": "37990.00",
+        "Category": "Холодильники и морозильные камеры",
+        "Vendor": "LG"
+    }
+]
